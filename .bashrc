@@ -20,12 +20,11 @@ function current_git_branch {
 
 alias ls="ls -G"
 alias ..="cd .."
-alias ..2="cd ../.."
-alias ..3="cd ../../.."
 alias sw="sass --watch --compass ds_campaign.sass:ds_campaign.css"
 alias brc="vim ~/.bashrc"
 alias slime="subl -n ."
-alias camps="cd ~/Documents/DoSomething-7.x/sites/all/modules/dosomething/dosomething_campaign_styles/campaign_styles"
+alias camps="cd /Applications/MAMP/htdocs/sites/all/modules/dosomething/dosomething_campaign_styles/campaign_styles"
+alias ds="cd /Applications/MAMP/htdocs"
 
 #git aliases
 alias gb="git branch"
