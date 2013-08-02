@@ -32,11 +32,8 @@ alias gs="git status"
 alias ga="git add"
 alias gc="git commit -a -m"
 
-<<<<<<< HEAD
 alias n="node app"
 
-=======
->>>>>>> 2d462471491788e8a2fd208c4de53ab22e40456c
 PS1="$magenta[\W]$cyan\$(current_git_branch) $white$ $original"	
 
 ### Added by the Heroku Toolbelt
