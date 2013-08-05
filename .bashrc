@@ -31,6 +31,8 @@ alias gb="git branch"
 alias gs="git status"
 alias ga="git add"
 alias gc="git commit -a -m"
+alias gcm="git checkout master"
+alias gcd="git checkout dev"
 
 alias n="node app"
 
